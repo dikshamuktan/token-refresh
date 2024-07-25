@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.1",
+    "uuid": "^10.0.0"
+  },
+  "type": "module",
+  "name": "yes",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev":"nodemon server.js"
+    
+  },
+  "author": "diksha",
+  "license": "ISC",
+  "description": ""
+}
